@@ -14,9 +14,11 @@ Lately that means full-stack web apps on Next.js and Supabase, and on-device mac
   <img src="assets/aerocept.png" width="100%" alt="Aerocept, a Mac app you control with your hands. Point to move, pinch to click, swipe between desktops. Built with Python, MediaPipe, scikit-learn and PySide6.">
 </a>
 
+<a href="https://cohost-redesign.vercel.app"><img src="assets/cohost.png" width="49%" alt="CoHost, built at the DevHacks hackathon with Samriddhi Singh. Campus clubs plan shared events through their own agents. Built with TypeScript, React, Supabase and Postgres."></a>&nbsp;<a href="https://github.com/jathinravilla/free-tonight"><img src="assets/free-tonight.png" width="49%" alt="Free Tonight, built at the DevHacks hackathon. A Discord bot where each friend's private agent negotiates a plan. Built with Python, discord.py, the Claude API and SQLite."></a>
+
 <a href="https://jathinr-portfolio.vercel.app"><img src="assets/habit-tracker.png" width="49%" alt="Habit Tracker, streaks for the habits you care about. Built with Next.js, TypeScript, Supabase and Postgres."></a>&nbsp;<a href="https://github.com/Samriddhi206/Leopard-Care"><img src="assets/leopard-care.png" width="49%" alt="Leopard Care, a team-built care dashboard for patients and caregivers. Built with JavaScript, Express, server-sent events and ElevenLabs."></a>
 
-<sub>Most of my code lives in private repos. My <a href="https://jathinr-portfolio.vercel.app">portfolio</a> has more on each project, and I'm happy to walk through any of it.</sub>
+<sub>CoHost and Free Tonight are hackathon builds from DevHacks (Cubbie theme). Most of my code lives in private repos. My <a href="https://jathinr-portfolio.vercel.app">portfolio</a> has more on each project, and I'm happy to walk through any of it.</sub>
 
 ### Toolbox
 
